@@ -23,3 +23,7 @@ Standard W,A,S,D controls apply for translational movement, with R,F controlling
 To look around, hold down LMB and drag the mouse.
 
 To adjust field of view, hold down RMB and drag the mouse up/down.
+
+## Extra
+
+This is a casual side project which I'll be adding to in the future. More features will come in time.
